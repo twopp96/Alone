@@ -5,8 +5,8 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.AI;
 using Random = UnityEngine.Random;
-
-public class AttackRange_Boss : AttackRange
+/*
+public class AttackRange_Boss: MonoBehaviour
 {
     private int random;
 
@@ -51,10 +51,3 @@ public class AttackRange_Boss : AttackRange
         }
     }*/
 
-    private void Update()
-    {
-        
-    }
-
-
-}
